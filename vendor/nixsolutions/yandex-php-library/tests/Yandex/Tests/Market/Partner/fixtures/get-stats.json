@@ -1,0 +1,54 @@
+{
+  "mainStats":
+  [
+    {
+      "clicks": 10322,
+      "date": "2017-02-06",
+      "placeGroup": 0,
+      "shows": 34059,
+      "spending": 3316.97,
+      "detailedStats":
+      [
+        {
+          "clicks": 1405,
+          "shows": 5674,
+          "spending": 481.69,
+          "type": "mobile"
+        }
+      ]
+    },
+    {
+      "clicks": 9829,
+      "date": "2017-02-07",
+      "placeGroup": 0,
+      "shows": 36059,
+      "spending": 3339.15,
+      "detailedStats":
+      [
+        {
+          "clicks": 1472,
+          "shows": 7965,
+          "spending": 518.89,
+          "type": "mobile"
+
+        }
+      ]
+    },
+    {
+      "clicks": 8755,
+      "date": "2017-02-08",
+      "placeGroup": 0,
+      "shows": 25697,
+      "spending": 3082.08,
+      "detailedStats":
+      [
+        {
+          "clicks": 1358,
+          "shows": 9567,
+          "spending": 475.35,
+          "type": "mobile"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "vendor": {
+    "id": 153043,
+    "name": "Apple",
+    "site": "www.apple.com\/ru\/",
+    "picture": "https:\/\/mdata.yandex.net\/i?path=b0222215216_img_id8329322607946938220.png",
+    "categories": [
+      {
+        "id": 91009,
+        "name": "\u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+        "nmodels": 0,
+        "popularity": 0,
+        "innerCategories": [
+          {
+            "id": 723087,
+            "name": "Wi-Fi \u0430\u0434\u0430\u043f\u0442\u0435\u0440\u044b \u0438 \u0442\u043e\u0447\u043a\u0438 \u0434\u043e\u0441\u0442\u0443\u043f\u0430",
+            "nmodels": 7,
+            "popularity": 5517.90099,
+            "innerCategories": [],
+            "filterId": 1801946,
+            "filterValueId": 1871375
+          },
+          {
+            "id": 91033,
+            "name": "\u0416\u0435\u0441\u0442\u043a\u0438\u0435 \u0434\u0438\u0441\u043a\u0438 \u0438 \u0441\u0435\u0442\u0435\u0432\u044b\u0435 \u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u0438",
+            "nmodels": 1,
+            "popularity": 1.11394,
+            "innerCategories": [],
+            "filterId": 1801946,
+            "filterValueId": 1871375
+          }
+        ]
+      },
+      {
+        "id": 198119,
+        "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0430",
+        "nmodels": 0,
+        "popularity": 0,
+        "innerCategories": [
+          {
+            "id": 91491,
+            "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b",
+            "nmodels": 33,
+            "popularity": 842134.9587,
+            "innerCategories": [],
+            "filterId": 1801946,
+            "filterValueId": 1871375
+          },
+          {
+            "id": 90555,
+            "name": "\u041d\u0430\u0443\u0448\u043d\u0438\u043a\u0438",
+            "nmodels": 7,
+            "popularity": 8375.85343,
+            "innerCategories": [],
+            "filterId": 1801946,
+            "filterValueId": 1871375
+          }
+        ]
+      }
+    ],
+    "topCategories": [
+      {
+        "id": 91491,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b",
+        "nmodels": 33,
+        "popularity": 3968401.25,
+        "innerCategories": [],
+        "imageUrl": "https:\/\/mdata.yandex.net\/i?path=b0910150147_img_id5771268031838675289.jpeg"
+      },
+      {
+        "id": 6427100,
+        "name": "\u041f\u043b\u0430\u043d\u0448\u0435\u0442\u044b",
+        "nmodels": 53,
+        "popularity": 315296.5,
+        "innerCategories": [],
+        "imageUrl": "https:\/\/mdata.yandex.net\/i?path=b1017232259_img_id2256525136764381865.jpeg"
+      }
+    ]
+  }
+}

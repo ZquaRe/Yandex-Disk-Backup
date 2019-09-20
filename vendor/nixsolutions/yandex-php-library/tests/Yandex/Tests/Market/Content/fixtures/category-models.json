@@ -1,0 +1,67 @@
+{
+  "models": {
+    "items": [
+      {
+        "id": 9320410,
+        "name": "ALCASTA M17",
+        "description": "\u043b\u0438\u0442\u044b\u0435, \u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0435\u0432\u044b\u0439 \u0441\u043f\u043b\u0430\u0432, 13 \/ 14 \/ 15 \/ 16 \/ 17",
+        "categoryId": 166068,
+        "prices": {
+          "max": "5631",
+          "min": "1129",
+          "avg": "2975",
+          "curCode": "RUR",
+          "curName": "\u0440\u0443\u0431."
+        },
+        "mainPhoto": {
+          "url": "https:\/\/mdata.yandex.net\/i?path=b0312194011_img_id3036607155523036354.jpg",
+          "width": 419,
+          "height": 398
+        },
+        "link": "https:\/\/market.yandex.ru\/product\/9320410\/?hid=166068&CMD=-RR=0,0,0,0-PF=1801946~EQ~sel~4867594-PF=2142397915~EQ~sel~x238611244-VIS=8470-CAT_ID=922145-EXC=1-PG=2",
+        "vendorId": 4867594,
+        "isGroup": true,
+        "vendor": "ALCASTA",
+        "offersCount": 644,
+        "isNew": 0,
+        "rating": 4.5,
+        "gradeCount": 12,
+        "reviewsCount": 2,
+        "articlesCount": 0,
+        "modificationsCount": 52
+      },
+      {
+        "id": 5090464,
+        "name": "SKAD \u0412\u0435\u0440\u0438\u0442\u0430\u0441",
+        "description": "\u043b\u0438\u0442\u044b\u0435, \u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0435\u0432\u044b\u0439 \u0441\u043f\u043b\u0430\u0432, 13 \/ 14 \/ 15 \/ 16",
+        "categoryId": 166068,
+        "prices": {
+          "max": "5205",
+          "min": "2070",
+          "avg": "3365",
+          "curCode": "RUR",
+          "curName": "\u0440\u0443\u0431."
+        },
+        "mainPhoto": {
+          "url": "https:\/\/mdata.yandex.net\/i?path=b0203211012_img_id1103295721359295519.jpg",
+          "width": 491,
+          "height": 486
+        },
+        "link": "https:\/\/market.yandex.ru\/product\/5090464\/?hid=166068&CMD=-RR=0,0,0,0-PF=1801946~EQ~sel~12229149-PF=2142397915~EQ~sel~1739183828-VIS=8470-CAT_ID=922145-EXC=1-PG=2",
+        "vendorId": 971413,
+        "isGroup": true,
+        "vendor": "SKAD",
+        "offersCount": 1392,
+        "isNew": 0,
+        "rating": 5,
+        "gradeCount": 34,
+        "reviewsCount": 5,
+        "articlesCount": 0,
+        "modificationsCount": 100
+      }
+    ],
+    "count": 2,
+    "page": 1,
+    "total": 24627
+  }
+}

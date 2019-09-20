@@ -1,0 +1,23 @@
+{
+  "georegions": {
+    "page": 1,
+    "count": 2,
+    "total": 4,
+    "items": [
+      {
+        "id": 225,
+        "name": "\u0420\u043e\u0441\u0441\u0438\u044f",
+        "parentId": 10001,
+        "childrenCount": 11,
+        "type": "COUNTRY"
+      },
+      {
+        "id": 187,
+        "name": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+        "parentId": 166,
+        "childrenCount": 7,
+        "type": "COUNTRY"
+      }
+    ]
+  }
+}

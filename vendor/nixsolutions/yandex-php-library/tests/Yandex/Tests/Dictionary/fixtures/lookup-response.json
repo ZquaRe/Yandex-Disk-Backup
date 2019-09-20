@@ -1,0 +1,17 @@
+{
+    "head": {},
+    "def": [
+        {
+            "text": "hi",
+            "pos": "noun",
+            "ts": "haɪ",
+            "tr": [{"text": "привет", "pos": "noun", "mean": [{"text": "hello"}]}]
+        },
+        {
+            "text": "hi",
+            "pos": "interjection",
+            "ts": "haɪ",
+            "tr": [{"text": "эй", "pos": "interjection", "mean": [{"text": "ho"}]}]
+        }
+    ]
+}

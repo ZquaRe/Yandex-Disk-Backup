@@ -1,0 +1,71 @@
+{
+  "outlets": [
+    {
+      "id": 214959,
+      "isBookNow": true,
+      "isMain": false,
+      "name": "Точка на Московском проспекте",
+      "shopOutletId": "214959",
+      "status": "FAILED",
+      "reason": "Причина отклонения точки продаж.",
+      "type": "RETAIL",
+      "visibility": "VISIBLE",
+      "workingTime": "пн-пт 10:00-20:00, сб-вс 10:00-19:00",
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Московский пр-т",
+        "number": "173",
+        "building": "3",
+        "estate": "5",
+        "block": "2",
+        "additional": "Дополнительная информация.",
+        "km": 3
+      },
+      "deliveryRules": [
+        {
+          "cost": 99,
+          "dateSwitchHour": 23,
+          "minDeliveryDays": 3,
+          "maxDeliveryDays": 5,
+          "priceFrom": 0.00,
+          "priceTo": 10.15,
+          "shipperHumanReadableId": "Main shipper",
+          "shipperId": 142,
+          "shipperName": "Собственная служба доставки",
+          "unspecifiedDeliveryInterval": true,
+          "workInHoliday": false
+        }
+      ],
+      "emails": [
+        "example-shop@yandex.ru"
+      ],
+      "phones": [
+        "+7 812 000-00-00"
+      ]
+    },
+    {
+      "id": 214958,
+      "isMain": false,
+      "name": "Точка на ул. Маршала Захарова",
+      "shopOutletId": "214958",
+      "status": "MODERATED",
+      "type": "RETAIL",
+      "visibility": "VISIBLE",
+      "workingTime": "пн-вс 10:00-20:00",
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Маршала Захарова",
+        "number": "21"
+      },
+      "phones": [
+        "+7 812 000-00-01"
+      ]
+    }
+  ],
+  "pager": {
+    "currentPage": 1,
+    "from": 1,
+    "pageSize": 2,
+    "to": 2
+  }
+}

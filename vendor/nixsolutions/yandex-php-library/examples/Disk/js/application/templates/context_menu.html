@@ -1,0 +1,71 @@
+<div class="context-menu" style="top: <%= data.y %>px; left: <%= data.x %>px">
+    <% if (data.type === 'item') { %>
+    <div class="context-menu-item <%= data.item.type === 'file' ? 'open-file' : 'open-directory' %>" id="open-item" data-href="<%= data.item.href %>">Open</div>
+    <div class="context-menu-item" id="copy-item" data-href="<%= data.item.href %>">Copy</div>
+    <div class="context-menu-item" id="move-item" data-href="<%= data.item.href %>">Move</div>
+    <div class="context-menu-item" id="delete-item" data-href="<%= data.item.href %>">Delete</div>
+    <div class="context-menu-item" id="publish-item" data-href="<%= data.item.href %>">Publishing</div>
+
+    <% if (data.item.type === 'file') { %>
+    <div class="context-menu-item" id="download-item" data-href="<%= data.item.href %>">Download</div>
+    <% } %>
+
+    <div class="context-menu-item" id="info-item" data-href="<%= data.item.href %>">Properties</div>
+
+    <% } else if (data.type === 'info') { %>
+    <dl>
+        <dt>Name</dt>
+        <dd><%= data.item.displayName %></dd>
+        <dt>Type</dt>
+        <dd><%= data.item.resourceType === 'dir' ? 'Directory' : 'File' %></dd>
+        <% if (data.item.contentType !== '') { %>
+        <dt>Content type</dt>
+        <dd><%= data.item.contentType %></dd>
+        <% } %>
+        <dt>Size</dt>
+        <dd><%= data.item.contentLength %> bytes</dd>
+        <dt>Creation date</dt>
+        <dd><%= data.item.creationDate %></dd>
+        <dt>Last Modified</dt>
+        <dd><%= data.item.lastModified %></dd>
+    </dl>
+    <% } else if (data.type === 'copy') { %>
+
+    <% for (var i = 0; i < data.item.length; i++) { %>
+    <% var element = data.item[i]; %>
+
+    <% if (element.resourceType === 'dir' && element.href !== data.buffer.copy) {%>
+    <div data-href="<%= element.href %>" class="item-context-folder copy">
+        <span class="glyphicon glyphicon-folder-close"></span>
+        <span><%= element.displayName %></span>
+    </div>
+    <% } %>
+
+    <% } %>
+    <div>
+        <span class="btn btn-default" id="item-copy-do">Copy</span>
+        <span class="btn btn-default" id="item-context-open">Open</span>
+    </div>
+
+    <% } else if (data.type === 'move') { %>
+
+    <% for (var i = 0; i < data.item.length; i++) { %>
+    <% var element = data.item[i]; %>
+
+    <% if (element.resourceType === 'dir' && element.href !== data.buffer.move) {%>
+    <div data-href="<%= element.href %>" class="item-context-folder move">
+        <span class="glyphicon glyphicon-folder-close"></span>
+        <span><%= element.displayName %></span>
+    </div>
+    <% } %>
+
+    <% } %>
+    <div>
+        <span class="btn btn-default" id="item-move-do">Move</span>
+        <span class="btn btn-default" id="item-context-open">Open</span>
+    </div>
+
+    <% } else { %>
+    <div class="context-menu-item" id="create-directory">Create folder</div>
+    <% } %>
+</div>

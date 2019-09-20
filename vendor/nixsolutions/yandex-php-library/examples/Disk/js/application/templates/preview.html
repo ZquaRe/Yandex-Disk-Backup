@@ -1,0 +1,32 @@
+<div id="preview" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"><%= data.item.displayName %></h4>
+            </div>
+            <div class="modal-body">
+                <img id="preview-image" src="<%= 'api/get-preview.php?file=' %><%= data.item.href %>&size=<%= data.size %>">
+            </div>
+            <div class="modal-footer">
+                <span class="pull-left sizes resize">
+                    <span data-href="<%= data.item.href %>" data-value="XXXS">XXXS</span>
+                    <span data-href="<%= data.item.href %>" data-value="XXS">XXS</span>
+                    <span data-href="<%= data.item.href %>" data-value="XS">XS</span>
+                    <span data-href="<%= data.item.href %>" data-value="S">S</span>
+                    <span data-href="<%= data.item.href %>" data-value="M">M</span>
+                    <span data-href="<%= data.item.href %>" data-value="L">L</span>
+                    <span data-href="<%= data.item.href %>" data-value="XL">XL</span>
+                    <span data-href="<%= data.item.href %>" data-value="XXL">XXL</span>
+                    <span data-href="<%= data.item.href %>" data-value="XXXL">XXXL</span>
+                </span>
+                <span class="accurate-size">
+                    <input size="4" maxlength="4" type="text" id="preview-width" value=""> <span class="preview-px">px</span>
+                    <b> &times; </b>
+                    <input size="4" maxlength="4" type="text" id="preview-height" value=""> <span class="preview-px">px</span>
+                </span>
+                <span class="btn btn-primary accurate-resize btn-small" data-href="<%= data.item.href %>">Resize</span>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,79 @@
+<% var space = data.space; %>
+<% var paths = data.paths; %>
+<% var avaliable = parseInt(space.usedBytes, 10)/(parseInt(space.usedBytes, 10) + parseInt(space.availableBytes, 10)) * 100; %>
+<% var previous = paths.getPrevious(); %>
+<% var current = paths.getCurrent(); %>
+<% var contents = data.contents; %>
+<% var contentsLength = contents.length; %>
+<% var usedSpace = parseFloat(space.usedBytes / 1024 / 1024).toFixed(2); %>
+<% var availableSpace = parseFloat(space.availableBytes / 1024 / 1024).toFixed(2); %>
+
+<div class="container">
+    <div class="col-md-8">
+        <div>
+            <p class="login">
+                Login:
+                <span class="bold font-30"><%= space.login %></span>
+            </p>
+            <div class="progress">
+                <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="<%= avaliable %>" aria-valuemin="0" aria-valuemax="100" style="width: <%= avaliable %>%">
+                    <span class="sr-only"><%= avaliable %>% Complete</span>
+                </div>
+            </div>
+            <p class="used-space"><span>Used space:</span><%= usedSpace %> MB</p>
+            <p class="available-space"><span>Available space:</span><%= availableSpace %> MB</p>
+        </div>
+        <div>
+            <div class="elements-list">
+                <ul class="breadcrumbs">
+                    <li><i class="icon-folder-open"></i></li>
+                    <% for (var i = 0; i < paths.length; i++) { %>
+                    <li><a
+                            href="#"
+                            data-href="<%= paths[i].href %>"
+                            data-num="<%= i %>"
+                            class="navigation <%= paths[i].href === current.href ? 'bold' : '' %>"><%= paths[i].name %>
+                    </a> /
+                    </li>
+                    <% } %>
+                </ul>
+
+                <% for (var i = 0; i < contents.length; i++) { %>
+                <% var element = contents[i]; %>
+                <div>
+                    <% if (element.resourceType === 'dir') { %>
+                    <a href="#" class="elements-list-item directory" data-href="<%= element.href %>">
+                        <i class="icon-folder-close"></i>
+                        <span><%= element.displayName %></span>
+                    </a>
+                    <% } else { %>
+                    <% if (element.contentType.indexOf('image') + 1) { %>
+                    <a href="api/get-file.php?file=<%= element.href %>" class="elements-list-item image file" data-href="<%= element.href %>">
+                        <i class="icon-picture"></i>
+                        <span><%= element.displayName %></span>
+                    </a>
+                    <% } else { %>
+                    <a href="api/get-file.php?file=<%= element.href %>" class="elements-list-item file" data-href="<%= element.href %>">
+                        <i class="icon-picture"></i>
+                        <span><%= element.displayName %></span>
+                    </a>
+                    <% } %>
+                    <% } %>
+                </div>
+                <% } %>
+            </div>
+        </div>
+        <div>
+            <div id="upload-image-preview" style="padding-bottom: 4px;"></div>
+            <form id="upload-form" action="api/upload.php" method="post" enctype="multipart/form-data" style="width: 400px;">
+                <span class="btn btn-success upload">
+                    <span id="upload-button-name">Add file</span>
+                    <input id="upload-input" type="file" name="file">
+                </span>
+                <input type="submit" name="submit" value="Upload" class="btn btn-primary">
+                <input type="hidden" name="href" value="<%= current.href %>">
+            </form>
+        </div>
+    </div>
+</div>
+<div class="ajax-loading"></div>

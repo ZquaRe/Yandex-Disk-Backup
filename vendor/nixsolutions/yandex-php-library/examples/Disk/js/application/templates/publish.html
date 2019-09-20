@@ -1,0 +1,31 @@
+<div id="publish" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <% if (data.item.status === 'publishing') { %>
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Publishing</h4>
+            </div>
+            <div class="modal-body">
+                <p>Publish url: <a target="_blank" href="<%= data.item.url %>"><%= data.item.url %></a></p>
+            </div>
+            <div class="modal-footer">
+                <span id="stop-publishing" data-href="<%= data.item.href %>" class="btn btn-primary">Stop publishing</span>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+            <% } else { %>
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Unpublishing</h4>
+            </div>
+            <div class="modal-body">
+                <p>Item not published yet</p>
+            </div>
+            <div class="modal-footer">
+                <span id="start-publishing" data-href="<%= data.item.href %>" class="btn btn-primary">Start publishing</span>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+            <% } %>
+        </div>
+    </div>
+</div>

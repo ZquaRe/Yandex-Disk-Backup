@@ -1,0 +1,23 @@
+{
+  "georegions": {
+    "page": 1,
+    "count": 2,
+    "total": 14,
+    "items": [
+      {
+        "id": 216,
+        "name": "\u0417\u0435\u043b\u0435\u043d\u043e\u0433\u0440\u0430\u0434",
+        "parentId": 213,
+        "childrenCount": 6,
+        "type": "CITY"
+      },
+      {
+        "id": 9000,
+        "name": "\u042f\u043d\u0434\u0435\u043a\u0441.wifi",
+        "parentId": 213,
+        "childrenCount": 0,
+        "type": "OTHER"
+      }
+    ]
+  }
+}

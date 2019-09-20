@@ -1,0 +1,42 @@
+{
+  "popular": {
+    "topCategoryList": [
+      {
+        "id": 91491,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b",
+        "topVendors": [
+          {
+            "id": 1871375,
+            "name": "Apple",
+            "topModelId": 10495456,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b0910230238_img_id6738100464582526458.jpg"
+          },
+          {
+            "id": 1871447,
+            "name": "Samsung",
+            "topModelId": 12340881,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b1210114754_img_id6182841544531043951.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 90639,
+        "name": "\u0422\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\u044b \u0438 \u043f\u043b\u0430\u0437\u043c\u0435\u043d\u043d\u044b\u0435 \u043f\u0430\u043d\u0435\u043b\u0438",
+        "topVendors": [
+          {
+            "id": 1871447,
+            "name": "Samsung",
+            "topModelId": 12435331,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b0422171928_img_id7222281067236793233.jpeg"
+          },
+          {
+            "id": 1871499,
+            "name": "LG",
+            "topModelId": 12460787,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b0427185540_img_id5004205422441083953.jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

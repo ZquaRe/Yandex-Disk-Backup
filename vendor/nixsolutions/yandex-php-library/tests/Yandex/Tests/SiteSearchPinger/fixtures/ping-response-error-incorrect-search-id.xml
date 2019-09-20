@@ -1,0 +1,10 @@
+<errors>
+    <error code="11">
+        <code>SEARCH_NOT_OWNED_BY_USER</code>
+        <message>Search does not exist or is not owned by the user</message>
+        <param>login</param>
+        <value>alex.khaylo</value>
+        <param>search_id</param>
+        <value>22612641</value>
+    </error>
+</errors>

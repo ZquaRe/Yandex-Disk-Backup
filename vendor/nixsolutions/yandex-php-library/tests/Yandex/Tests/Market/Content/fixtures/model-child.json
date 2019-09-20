@@ -1,0 +1,46 @@
+{
+  "model": {
+    "id": 10546667,
+    "name": "X-Ice North 3 205\/60 R16 96T",
+    "description": "\n\u0437\u0438\u043c\u043d\u0438\u0435, \u0448\u0438\u0440\u0438\u043d\u0430 205\u043c\u043c, \u043e\u0431\u043e\u0434 16\", \u0448\u0438\u043f\u044b\n \n",
+    "categoryId": 90490,
+    "prices": {
+      "max": "6540",
+      "min": "4349",
+      "avg": "5138",
+      "curCode": "RUR",
+      "curName": "\u0440\u0443\u0431."
+    },
+    "mainPhoto": {
+      "url": "https:\/\/mdata.yandex.net\/i?path=b0805234123_img_id7853993814781671164.jpg",
+      "width": 361,
+      "height": 599
+    },
+    "facts": {
+      "pro": [],
+      "contra": []
+    },
+    "link": "https:\/\/market.yandex.ru\/product\/10546667\/?hid=90490",
+    "vendorId": 152883,
+    "isGroup": false,
+    "vendor": "Michelin",
+    "offersCount": 82,
+    "isNew": 0,
+    "rating": -1,
+    "gradeCount": 0,
+    "reviewsCount": 0,
+    "articlesCount": 0,
+    "photos": {
+      "photo": [
+        {
+          "url": "https:\/\/mdata.yandex.net\/i?path=b0805234123_img_id7853993814781671164.jpg",
+          "width": 361,
+          "height": 599
+        }
+      ]
+    },
+    "parentModel": {
+      "id": 10452984
+    }
+  }
+}

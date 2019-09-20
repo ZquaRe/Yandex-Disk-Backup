@@ -1,0 +1,44 @@
+{
+  "time": 1452195477107,
+  "model": {
+    "name": "Roomba 780",
+    "category": {
+      "id": 90564,
+      "name": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441\u044b"
+    },
+    "price": {
+      "max": "42990",
+      "min": "31000",
+      "avg": "35990",
+      "currencyCode": "RUR",
+      "currencyName": "\u0440\u0443\u0431."
+    },
+    "photo": "https:\/\/mdata.yandex.net\/i?path=b0919115001_img_id4215281484435646361.jpg",
+    "vendor": {
+      "id": 578527,
+      "name": "iRobot",
+      "site": "www.irobot.com",
+      "picture": "https:\/\/mdata.yandex.net\/i?path=b1125192227_img_id3453151965210061739.png"
+    },
+    "rating": {
+      "value": 4,
+      "count": 184
+    },
+    "media": {
+      "reviews": 94,
+      "articles": 3
+    },
+    "facts": {
+      "pros": [
+        "\u0423\u0434\u043e\u0431\u0441\u0442\u0432\u043e",
+        "\u0413\u0430\u0431\u0430\u0440\u0438\u0442\u044b"
+      ],
+      "contras": [
+        "\u0426\u0435\u043d\u0430"
+      ]
+    },
+    "id": 7348501,
+    "offerCount": 7,
+    "type": "MODEL"
+  }
+}

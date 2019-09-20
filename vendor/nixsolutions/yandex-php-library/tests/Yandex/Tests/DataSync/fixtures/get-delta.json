@@ -1,0 +1,122 @@
+{
+    "base_revision": 0,
+    "items": [
+        {
+            "base_revision": 0,
+            "delta_id": "add new object to collection",
+            "changes": [
+                {
+                    "record_id": "monday",
+                    "collection_id": "schedule",
+                    "change_type": "insert",
+                    "changes": [
+                        {
+                            "field_id": "work",
+                            "change_type": "set",
+                            "value": {"type": "string", "string": "from 11am to 7pm"}
+                        }
+                    ]
+                }
+            ],
+            "revision": 1
+        },
+        {
+            "base_revision": 1,
+            "delta_id": "add new object to collection",
+            "changes": [
+                {
+                    "record_id": "monday",
+                    "collection_id": "schedule1",
+                    "change_type": "insert",
+                    "changes": [
+                        {
+                            "field_id": "work",
+                            "change_type": "set",
+                            "value": {"type": "string", "string": "from 11am to 7pm"}
+                        }
+                    ]
+                }
+            ],
+            "revision": 2
+        },
+        {
+            "base_revision": 2,
+            "delta_id": "add new object to collection",
+            "changes": [
+                {
+                    "record_id": "monday",
+                    "collection_id": "my_schedule",
+                    "change_type": "insert",
+                    "changes": [
+                        {
+                            "field_id": "work",
+                            "change_type": "set",
+                            "value": {"type": "string", "string": "from 11am to 7pm"}
+                        }
+                    ]
+                }
+            ],
+            "revision": 3
+        },
+        {
+            "base_revision": 3,
+            "delta_id": "add new object to collection",
+            "changes": [
+                {
+                    "record_id": "monday",
+                    "collection_id": "my_schedule2",
+                    "change_type": "insert",
+                    "changes": [
+                        {
+                            "field_id": "work",
+                            "change_type": "set",
+                            "value": {"type": "string", "string": "from 11am to 7pm"}
+                        }
+                    ]
+                }
+            ],
+            "revision": 4
+        },
+        {
+            "base_revision": 4,
+            "delta_id": "add new object to collection",
+            "changes": [
+                {
+                    "record_id": "friday",
+                    "collection_id": "my_schedule",
+                    "change_type": "insert",
+                    "changes": [
+                        {
+                            "field_id": "work",
+                            "change_type": "set",
+                            "value": {"type": "string", "string": "from 11am to 6pm"}
+                        }
+                    ]
+                }
+            ],
+            "revision": 5
+        },
+        {
+            "base_revision": 5,
+            "delta_id": "add new object to collection",
+            "changes": [
+                {
+                    "record_id": "friday",
+                    "collection_id": "schedule",
+                    "change_type": "insert",
+                    "changes": [
+                        {
+                            "field_id": "work",
+                            "change_type": "set",
+                            "value": {"type": "string", "string": "from 11am to 6pm"}
+                        }
+                    ]
+                }
+            ],
+            "revision": 6
+        }
+    ],
+    "total": 6,
+    "limit": 100,
+    "revision": 6
+}

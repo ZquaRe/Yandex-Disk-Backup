@@ -1,0 +1,15 @@
+<pings>
+    <added count="1">
+        <url>https://naxel.me</url>
+    </added>
+    <invalid count="2" reason="MALFORMED_URLS">
+        <url>http://yarus</url>
+        <url>http://yaru</url>
+    </invalid>
+    <invalid count="4" reason="OUT_OF_SEARCH_AREA">
+        <url>https://ya.ru</url>
+        <url>http://anton.shevchuk.name/php/php-development-environment-under-macos/</url>
+        <url>http://www.yandex.ru</url>
+        <url>http://anton.shevchuk.name/php/php-framework-bluz-update/</url>
+    </invalid>
+</pings>

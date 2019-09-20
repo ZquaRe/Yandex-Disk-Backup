@@ -1,0 +1,118 @@
+{
+  "model": {
+    "id": 1598996536,
+    "name": "\u0422\u0443\u0448\u044c \u0434\u043b\u044f \u0440\u0435\u0441\u043d\u0438\u0446 Max Factor Velvet",
+    "description": "\u0422\u0443\u0448\u044c Max Factor. \u0426\u0432\u0435\u0442: . \u0421\u0435\u0437\u043e\u043d: \u041e\u0441\u0435\u043d\u044c-\u0437\u0438\u043c\u0430 2015\/2016.",
+    "categoryId": 4748062,
+    "prices": {
+      "max": "840",
+      "min": "545",
+      "avg": "619",
+      "curCode": "RUR",
+      "curName": "\u0440\u0443\u0431."
+    },
+    "link": "https:\/\/market.yandex.ru\/model\/1598996536\/?hid=4748062",
+    "vendorId": 8367644,
+    "filters": [
+      {
+        "id": "8465332",
+        "name": "\u0426\u0432\u0435\u0442",
+        "shortname": "color",
+        "type": "ENUMERATOR",
+        "unit": "",
+        "enumFilterType": "COLOR",
+        "options": [
+          {
+            "valueId": "8465341",
+            "valueText": "\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0439",
+            "tag": "\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0439",
+            "code": "#A0704D"
+          },
+          {
+            "valueId": "8465352",
+            "valueText": "\u0441\u0438\u043d\u0438\u0439",
+            "tag": "\u0441\u0438\u043d\u0438\u0439",
+            "code": "#3333FF"
+          }
+        ],
+        "exactly": true
+      }
+    ],
+    "photos": [
+      {
+        "url": "https:\/\/4.cs-ellpic.yandex.net\/market_oIX1VT11U92PucE-7IDkmg_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "3iwWHfHFRRjijt0Pq5_mBg"
+      },
+      {
+        "url": "https:\/\/8.cs-ellpic.yandex.net\/market__wxkyidDlq2UAfV38kZ3fg_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "3iwWHfHFRRjijt0Pq5_mBg"
+      }
+    ],
+    "previewPhotos": [
+      {
+        "url": "https:\/\/8.cs-ellpic.yandex.net\/market_oIX1VT11U92PucE-7IDkmg_190x250.jpg",
+        "width": 190,
+        "height": 250,
+        "offerId": "3iwWHfHFRRjijt0Pq5_mBg"
+      },
+      {
+        "url": "https:\/\/2.cs-ellpic.yandex.net\/market__wxkyidDlq2UAfV38kZ3fg_190x250.jpg",
+        "width": 190,
+        "height": 250,
+        "offerId": "3iwWHfHFRRjijt0Pq5_mBg"
+      }
+    ],
+    "offersCount": 45,
+    "offers": [
+      {
+        "offerId": "MtmV9lu5QcPFTpNpJTXX4w",
+        "filters": [
+          {
+            "id": "8465332",
+            "name": "\u0426\u0432\u0435\u0442",
+            "type": "ENUMERATOR",
+            "subType": "color",
+            "unit": "",
+            "enumFilterType": "COLOR",
+            "options": [
+              {
+                "valueId": "8465361",
+                "valueText": "\u0447\u0435\u0440\u043d\u044b\u0439",
+                "tag": "\u0447\u0435\u0440\u043d\u044b\u0439",
+                "code": "#000000"
+              }
+            ],
+            "exactly": true
+          }
+        ]
+      },
+      {
+        "offerId": "H35ICMYA6Wn32L4yFjFJfg",
+        "filters": [
+          {
+            "id": "8465332",
+            "name": "\u0426\u0432\u0435\u0442",
+            "type": "ENUMERATOR",
+            "subType": "color",
+            "unit": "",
+            "enumFilterType": "COLOR",
+            "options": [
+              {
+                "valueId": "8465361",
+                "valueText": "\u0447\u0435\u0440\u043d\u044b\u0439",
+                "tag": "\u0447\u0435\u0440\u043d\u044b\u0439",
+                "code": "#000000"
+              }
+            ],
+            "exactly": true
+          }
+        ]
+      }
+    ],
+    "vendorName": "Max Factor"
+  }
+}

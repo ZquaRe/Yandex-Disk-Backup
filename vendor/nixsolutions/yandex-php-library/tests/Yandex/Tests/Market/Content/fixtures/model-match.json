@@ -1,0 +1,100 @@
+{
+  "time": 1452182247013,
+  "model": [
+    {
+      "name": "iPhone 5S 16Gb",
+      "category": {
+        "id": 91491,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b"
+      },
+      "price": {
+        "max": "36990",
+        "min": "23500",
+        "avg": "26570",
+        "currencyCode": "RUR",
+        "currencyName": "\u0440\u0443\u0431."
+      },
+      "photo": "https:\/\/mdata.yandex.net\/i?path=b0910230238_img_id6738100464582526458.jpg",
+      "vendor": {
+        "id": 153043,
+        "name": "Apple",
+        "site": "www.apple.com\/ru\/",
+        "picture": "https:\/\/mdata.yandex.net\/i?path=b0222215216_img_id8329322607946938220.png"
+      },
+      "rating": {
+        "value": 4,
+        "count": 3152
+      },
+      "media": {
+        "reviews": 325,
+        "articles": 50
+      },
+      "facts": {
+        "pros": [
+          "\u0420\u0430\u0437\u043c\u0435\u0440",
+          "\u0414\u0438\u0437\u0430\u0439\u043d",
+          "\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c",
+          "\u041a\u0430\u043c\u0435\u0440\u0430",
+          "\u042d\u043a\u0440\u0430\u043d",
+          "\u041a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u0437\u0432\u0443\u043a\u0430",
+          "\u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b"
+        ],
+        "contras": [
+          "\u041d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u044f",
+          "\u0426\u0435\u043d\u0430",
+          "\u0410\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440"
+        ]
+      },
+      "id": 10495456,
+      "offerCount": 155,
+      "type": "MODEL"
+    },
+    {
+      "name": "iPhone 5S 32Gb",
+      "category": {
+        "id": 91491,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u044b"
+      },
+      "price": {
+        "max": "53333.64",
+        "min": "27700",
+        "avg": "38880",
+        "currencyCode": "RUR",
+        "currencyName": "\u0440\u0443\u0431."
+      },
+      "photo": "https:\/\/mdata.yandex.net\/i?path=b0910231305_img_id8113638867959677735.jpg",
+      "vendor": {
+        "id": 153043,
+        "name": "Apple",
+        "site": "www.apple.com\/ru\/",
+        "picture": "https:\/\/mdata.yandex.net\/i?path=b0222215216_img_id8329322607946938220.png"
+      },
+      "rating": {
+        "value": 4,
+        "count": 1839
+      },
+      "media": {
+        "reviews": 113,
+        "articles": 45
+      },
+      "facts": {
+        "pros": [
+          "\u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b",
+          "\u0414\u0438\u0437\u0430\u0439\u043d",
+          "\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c",
+          "\u041a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u0437\u0432\u0443\u043a\u0430",
+          "\u0423\u0434\u043e\u0431\u0441\u0442\u0432\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f",
+          "\u042d\u043a\u0440\u0430\u043d",
+          "\u041a\u0430\u043c\u0435\u0440\u0430"
+        ],
+        "contras": [
+          "\u0426\u0435\u043d\u0430",
+          "\u0410\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440"
+        ]
+      },
+      "id": 10495486,
+      "offerCount": 41,
+      "type": "MODEL"
+    }
+  ]
+}

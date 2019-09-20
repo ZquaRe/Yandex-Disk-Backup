@@ -1,0 +1,25 @@
+{
+    "handle": "2oCffe2HaSpSm3hC160220233UPUjB5fauRhDQCFXi1456849538073",
+    "records_count": 2,
+    "created": "2016-03-01T16:25:38.073000+00:00",
+    "modified": "2016-03-02T15:59:02.342000+00:00",
+    "records": {
+        "items": [
+            {
+                "record_id": "monday",
+                "collection_id": "schedule",
+                "fields": [{"field_id": "work", "value": {"type": "string", "string": "from 11am to 7pm"}}],
+                "revision": 1
+            },
+            {
+                "record_id": "monday",
+                "collection_id": "schedule1",
+                "fields": [{"field_id": "work", "value": {"type": "string", "string": "from 11am to 7pm"}}],
+                "revision": 2
+            }
+        ]
+    },
+    "database_id": "test",
+    "revision": 2,
+    "size": 1320
+}

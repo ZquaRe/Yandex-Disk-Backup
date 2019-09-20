@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:multistatus xmlns:d="DAV:">
+<d:response>
+    <d:href>/test/</d:href>
+    <d:propstat>
+        <d:status>HTTP/1.1 200 OK</d:status>
+        <d:prop>
+            <myprop xmlns="default:namespace">myvalue</myprop>
+        </d:prop>
+    </d:propstat>
+</d:response>
+<d:response>
+    <d:href>/test/composer.lock</d:href>
+    <d:propstat>
+        <d:status>HTTP/1.1 404 Object Not Found</d:status>
+        <d:prop>
+            <myprop xmlns="default:namespace"/>
+        </d:prop>
+    </d:propstat>
+</d:response>
+</d:multistatus>

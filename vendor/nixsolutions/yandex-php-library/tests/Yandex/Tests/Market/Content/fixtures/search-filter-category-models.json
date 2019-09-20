@@ -1,0 +1,39 @@
+{
+  "searchResult": {
+    "page": 6,
+    "count": 1,
+    "total": 199,
+    "results": [
+      {
+        "model": {
+          "id": 12695083,
+          "name": "Edge Professional LL III 5W-30 1 \u043b",
+          "description": "\u0441\u0438\u043d\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0442\u043e\u0440\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e, 1\u043b, \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u044c 5W-30, 4-\u0442\u0430\u043a\u0442\u043d\u044b\u0439 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c",
+          "categoryId": 90478,
+          "prices": {
+            "max": "900",
+            "min": "665",
+            "avg": "730",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          },
+          "mainPhoto": {
+            "url": "https:\/\/mdata.yandex.net\/i?path=b0713222033_img_id5960951074088003752.jpeg",
+            "width": 293,
+            "height": 701
+          },
+          "link": "https:\/\/market.yandex.ru\/product\/12695083\/?hid=90478",
+          "vendorId": 153122,
+          "isGroup": false,
+          "vendor": "Castrol",
+          "offersCount": 8,
+          "isNew": 0,
+          "rating": -1,
+          "gradeCount": 0,
+          "reviewsCount": 0,
+          "articlesCount": 0
+        }
+      }
+    ]
+  }
+}

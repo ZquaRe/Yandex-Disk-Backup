@@ -1,0 +1,77 @@
+{
+  "vendorList": {
+    "page": 1,
+    "count": 2,
+    "total": 62182,
+    "vendor": [
+      {
+        "id": 12260676,
+        "name": "SONIK",
+        "site": "www.soniksports.com",
+        "categories": [
+          {
+            "id": 91512,
+            "name": "\u0421\u043f\u043e\u0440\u0442 \u0438 \u043e\u0442\u0434\u044b\u0445",
+            "nmodels": 0,
+            "popularity": 0,
+            "innerCategories": [
+              {
+                "id": 91517,
+                "name": "\u0423\u0434\u0438\u043b\u0438\u0449\u0430",
+                "nmodels": 17,
+                "popularity": 36.81302,
+                "innerCategories": [],
+                "filterId": 1801946,
+                "filterValueId": 12260676
+              }
+            ]
+          }
+        ],
+        "topCategories": [
+          {
+            "id": 91517,
+            "name": "\u0423\u0434\u0438\u043b\u0438\u0449\u0430",
+            "nmodels": 17,
+            "popularity": 0.95,
+            "innerCategories": [],
+            "imageUrl": "https:\/\/mdata.yandex.net\/i?path=b0513154139_img_id3409016180876710510.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 1581329,
+        "name": "FLI",
+        "site": "www.fliaudio.co.uk",
+        "categories": [
+          {
+            "id": 90402,
+            "name": "\u0410\u0432\u0442\u043e",
+            "nmodels": 0,
+            "popularity": 0,
+            "innerCategories": [
+              {
+                "id": 308016,
+                "name": "\u0410\u0432\u0442\u043e\u0430\u043a\u0443\u0441\u0442\u0438\u043a\u0430",
+                "nmodels": 35,
+                "popularity": 431.51531,
+                "innerCategories": [],
+                "filterId": 1801946,
+                "filterValueId": 15616944
+              }
+            ]
+          }
+        ],
+        "topCategories": [
+          {
+            "id": 308016,
+            "name": "\u0410\u0432\u0442\u043e\u0430\u043a\u0443\u0441\u0442\u0438\u043a\u0430",
+            "nmodels": 35,
+            "popularity": 538.29,
+            "innerCategories": [],
+            "imageUrl": "https:\/\/mdata.yandex.net\/i?path=b0708102348_img_id1612163427315790882.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

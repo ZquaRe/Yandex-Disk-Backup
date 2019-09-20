@@ -1,0 +1,65 @@
+{
+  "outlets": {
+    "outlet": [
+      {
+        "phone": {
+          "country": "7",
+          "city": "495",
+          "number": "668-1122"
+        },
+        "schedule": [
+          {
+            "workingDaysFrom": "1",
+            "workingDaysTill": "5",
+            "workingHoursFrom": "9:00",
+            "workingHoursTill": "21:00"
+          }
+        ],
+        "geo": {
+          "geoId": 213,
+          "longitude": "37.625487",
+          "latitude": "55.743796"
+        },
+        "pointId": "105683",
+        "pointName": "SIDEX.RU \u0443 \u043c. \u0422\u0440\u0435\u0442\u044c\u044f\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0438 \u043c. \u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a\u0430\u044f",
+        "pointType": "MIXED",
+        "localityName": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "thoroughfareName": "\u043c. \u0422\u0440\u0435\u0442\u044c\u044f\u043a\u043e\u0432\u0441\u043a\u0430\u044f, \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041e\u0440\u0434\u044b\u043d\u043a\u0430",
+        "premiseNumber": "13",
+        "shopId": 4779,
+        "block": "9"
+      },
+      {
+        "phone": {
+          "country": "7",
+          "city": "495",
+          "number": "668-1122"
+        },
+        "schedule": [
+          {
+            "workingDaysFrom": "1",
+            "workingDaysTill": "5",
+            "workingHoursFrom": "11:00",
+            "workingHoursTill": "20:00"
+          }
+        ],
+        "geo": {
+          "geoId": 213,
+          "longitude": "37.380929",
+          "latitude": "55.840487"
+        },
+        "pointId": "326710",
+        "pointName": "SIDEX.RU - \u041c\u0438\u0442\u0438\u043d\u043e \u0443 \u043c. \u0412\u043e\u043b\u043e\u043a\u043e\u043b\u0430\u043c\u0441\u043a\u0430\u044f",
+        "pointType": "MIXED",
+        "localityName": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "thoroughfareName": "\u041d\u043e\u0432\u043e\u0442\u0443\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0440-\u0434",
+        "premiseNumber": "10",
+        "shopId": 4779,
+        "block": "2"
+      }
+    ],
+    "page": 1,
+    "total": 4,
+    "count": 2
+  }
+}

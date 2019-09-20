@@ -1,0 +1,37 @@
+{
+  "outlet": {
+    "id": 215634,
+    "isBookNow": true,
+    "isMain": false,
+    "name": "Точка в Иркутске",
+    "shopOutletId": "215634",
+    "status": "MODERATED",
+    "type": "RETAIL",
+    "visibility": "VISIBLE",
+    "workingTime": "пн-пт 9:00-19:00, сб 10:00-17:00",
+    "address": {
+      "city": "Иркутск",
+      "street": "Свердлова",
+      "number": "36",
+      "building": "5",
+      "estate": "2",
+      "block": "3",
+      "km": 3
+    },
+    "deliveryRules": [
+      {
+        "cost": 99,
+        "dateSwitchHour": 23,
+        "minDeliveryDays": 3,
+        "maxDeliveryDays": 5,
+        "workInHoliday": false
+      }
+    ],
+    "emails": [
+      "example-shop@yandex.ru"
+    ],
+    "phones": [
+      "+7 100 100-0000"
+    ]
+  }
+}

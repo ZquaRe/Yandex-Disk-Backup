@@ -1,0 +1,195 @@
+* {
+    font-family: "Trebuchet MS";
+}
+
+body {
+    background-color: #cccccc;
+    padding: 40px;
+}
+
+.container {
+    background-color: #ffffff;
+    min-height: 300px;
+    padding: 40px 20px;
+}
+
+.elements-list {
+    margin-top: 20px;
+}
+
+.elements-list div {
+    padding: 5px 0px;
+}
+
+.elements-list a{
+    font-size: 18px;
+    color: #000000;
+}
+
+.context-menu {
+    font-size: 17px;
+    position: absolute;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin: 3px;
+}
+
+.elements-list a.bold {
+    font-size: 25px;
+}
+
+.context-menu-item {
+    padding: 2px 3px;
+}
+
+.context-menu {
+    cursor: pointer;
+    padding: 2px;
+}
+
+.context-menu dt {
+    background: #cccccc;
+}
+
+.context-menu div:hover {
+    background: #cccccc;
+}
+
+.marked {
+    background: #cccccc;
+}
+
+ul.breadcrumbs li {
+    display: inline;
+}
+
+.sizes span {
+    cursor: pointer;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.sizes span:hover {
+    background: #cccccc;
+}
+
+.bold {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.accurate-size {
+    position: relative;
+    top: 2px;
+}
+
+.login {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.font-25 {
+    font-size: 25px;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+.used-space {
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.used-space span {
+    display: inline-block;
+    width: 110px;
+    margin-right: 10px;
+    text-align: left;
+}
+
+.available-space {
+    font-size: 18px;
+    color: rgb(92, 184, 92);
+}
+
+.available-space span {
+    display: inline-block;
+    text-align: left;
+    width: 110px;
+    margin-right: 10px;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+}
+
+.ajax-loading {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: #000;
+    -webkit-transition: opacity .15s linear;
+    transition: opacity .15s linear;
+    opacity: .5;
+    filter: alpha(opacity=50);
+    display: block;
+}
+
+.upload {
+    overflow: hidden;
+    position: relative;
+}
+
+.upload input {
+    direction: ltr;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    opacity: 0;
+    font-size: 200px;
+    cursor: pointer;
+    -ms-filter: 'alpha(opacity=0)';
+    direction: ltr;
+}
+
+/* bootstrap */
+
+.modal-content,.btn {
+    border-radius: 0;
+}
+
+.btn {
+    padding: 2px 12px;
+}
+
+.modal-footer {
+    padding: 20px 20px 20px;
+    margin-top: 0;
+    text-align: right;
+    border-top: none;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-body {
+    padding: 0 20px;
+}
+
+.progress {
+    height: 25px;
+    border-radius: 0;
+}
+
+.container {
+    padding: 40px;
+}
+/* bootstrap */

@@ -1,0 +1,35 @@
+<phpunit backupGlobals="false"
+         backupStaticAttributes="false"
+         stopOnFailure="false"
+         colors="true"
+         verbose="true"
+         bootstrap="./bootstrap.php">
+    <testsuites>
+        <testsuite name="Library Test Suite">
+            <directory>./Yandex/Tests/Common</directory>
+            <directory>./Yandex/Tests/Metrica</directory>
+            <directory>./Yandex/Tests/Market/Partner</directory>
+            <directory>./Yandex/Tests/Market/Content</directory>
+            <directory>./Yandex/Tests/OAuth</directory>
+            <directory>./Yandex/Tests/Disk</directory>
+            <directory>./Yandex/Tests/Speller</directory>
+            <directory>./Yandex/Tests/DataSync</directory>
+            <directory>./Yandex/Tests/SiteSearchPinger</directory>
+            <directory>./Yandex/Tests/SafeBrowsing</directory>
+            <directory>./Yandex/Tests/Dictionary</directory>
+        </testsuite>
+    </testsuites>
+    <listeners>
+        <listener class="\Yandex\Tests\TestListener" />
+    </listeners>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">../src</directory>
+        </whitelist>
+        <blacklist>
+            <directory suffix=".php">../docs</directory>
+            <directory suffix=".php">../examples</directory>
+            <directory suffix=".php">../vendor</directory>
+        </blacklist>
+    </filter>
+</phpunit>

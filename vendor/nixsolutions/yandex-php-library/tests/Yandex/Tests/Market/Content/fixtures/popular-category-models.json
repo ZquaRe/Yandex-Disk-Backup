@@ -1,0 +1,42 @@
+{
+  "popular": {
+    "topCategoryList": [
+      {
+        "id": 90417,
+        "name": "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u043e\u0440\u044b",
+        "topVendors": [
+          {
+            "id": 1870187,
+            "name": "Rolsen",
+            "topModelId": 10566942,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b1112223350_img_id374532418210505158.jpeg"
+          },
+          {
+            "id": 4850208,
+            "name": "AVIS",
+            "topModelId": 7009380,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b0217163605_img_id7323853871841639211.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6269371,
+        "name": "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0432\u0438\u0434\u0435\u043e\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u044b",
+        "topVendors": [
+          {
+            "id": 9271302,
+            "name": "TrendVision",
+            "topModelId": 11756785,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b1211170210_img_id4602122483453317131.jpeg"
+          },
+          {
+            "id": 7156305,
+            "name": "\u041a\u0410\u0420\u041a\u0410\u041c",
+            "topModelId": 12727247,
+            "topModelImage": "https:\/\/mdata.yandex.net\/i?path=b0722094302_img_id9079422088053570556.jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

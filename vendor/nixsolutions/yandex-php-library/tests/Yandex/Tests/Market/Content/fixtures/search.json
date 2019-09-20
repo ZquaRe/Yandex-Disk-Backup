@@ -1,0 +1,174 @@
+{
+  "searchResult": {
+    "page": 1,
+    "count": 2,
+    "total": 34,
+    "requestParams": {
+      "text": "Motul 8100 X-cess 5W-40",
+      "actualText": "Motul 8100 X-cess 5W-40",
+      "checkSpelling": false
+    },
+    "regionDelimiterPosition" : 20,
+    "results": [
+      {
+        "model": {
+          "id": 12688332,
+          "name": "Motul 8100 X-cess 5W40 5 \u043b",
+          "description": "\u0441\u0438\u043d\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0442\u043e\u0440\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e, 5\u043b, \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u044c 5W-40, 4-\u0442\u0430\u043a\u0442\u043d\u044b\u0439 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c",
+          "categoryId": 90478,
+          "prices": {
+            "max": "4155",
+            "min": "3506",
+            "avg": "3870",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          },
+          "mainPhoto": {
+            "url": "https:\/\/mdata.yandex.net\/i?path=b0710032752_img_id1618129239551805148.jpeg",
+            "width": 448,
+            "height": 701
+          },
+          "link": "http:\/\/market.yandex.ru\/model.xml?hid=90478&modelid=12688332&ymclid=52338243930771092977001",
+          "vendorId": 10713766,
+          "bigPhoto": {
+            "url": "https:\/\/mdata.yandex.net\/i?path=b0710032752_img_id1618129239551805148.jpeg",
+            "width": 448,
+            "height": 701
+          },
+          "previewPhoto": {
+            "url": "https:\/\/mdata.yandex.net\/i?path=b0710032757_img_id1170730796257694388.jpeg",
+            "width": 0,
+            "height": 0
+          },
+          "offersCount": 9,
+          "rating": -1,
+          "reviewsCount": 0
+        }
+      },
+      {
+        "offer": {
+          "id": "3cewDiuPGk_9Yazg38BbdA",
+          "modelId": 12688330,
+          "name": "\u041c\u043e\u0442\u043e\u0440\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e MOTUL 8100 X-cess 5W-40, \u0441\u0438\u043d\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435, 1\u043b (102784)",
+          "onStock": 0,
+          "url": "https:\/\/market-click2.yandex.ru\/redir\/GAkkM7lQwz6kEtXSvIPZ1mAIc1IAtaTTuAHz107jf-q5ELKNZtOmSS24K1tPfnWlLxJcfpHOvqdU5-7-NqOtHwKrRsQnydDQereENjIbplIGjxFY5TZioTeQtrsIQVVNTH3z4JqmKeVp1FKNi2-w7JPlpVBGxmDBVAwX1S7EPdi-cht3Ev4MpwFotFwhOsk9bcMEH7MiYsnbqooMCpDzoBFLWYF5l1oRvP_Ic9GSJv6tYdsxOwZ4CjmFrxu1E1GAxaEc3FQ3m16Ca8bZUHKcDceXXTrrwsVfZmXTo26WJ3YeLNEu-Xwc1jsbfs10hEYi5i2KDspUO8X4Rgx_YKl5ak0_Jv0-mtSa0KT4u3HfRkDuaswFYkUsq8Y55zRBcLimoJZl1NDCPDyuWGt7N_vow9td-QO8_U2QbiJYdF8ogVfkSMivqUyi-y2FWHIC3WXdAjnvX1v9q7zEiAA9xgnN4RX8yvSYuhRtTqV1eRKOhiJ_PRmzzwMny96BOZew8QEbAiuAh-6bh9yyLxcO4a4U7S2MRcIrQvXnz2X5TZE1bZEkBM7qG5IcYJX3uByyXPcGrdPFd5vKiij1z7fIlJG_1ImuJSKmwa7PgP_-MFHQW7WCtrsRkDtYdg?data=QVyKqSPyGQwNvdoowNEPjXABef_Uz0ZKq7Dp2SjDXPGe2xWciX_Nw6pc4FFhnluEuAzWNmosohMxnibOqqCjWv4CHFND4CEd3c3N1c_HJ94quUIzTGnLRxgqRtTgFj8sIqwQz2JhydoEynYjn0af9v2_yY4cbvvWurCkWdK_ygfy1e3vnt2oXsFBabcSE3VNTwd3ESPuspdqYtcpe-RALKDj1TCombs3bsL1e7sZNWy86RFY1r-ndEaDtMa-tPzu3trZ7CO1eqOGOWj2a1DgODuyeF8z2C10LLqctsxpDVauR2mBKuZqllLWbzVwxqsluFuqSk1rcU_PdUvNyHAo_ziGbtMPpJjvPo2Vk3TSK0j7lPFtPdoVY7aEGr6DeooE1VyvPkh6lilrJzGISTR_helfPPuXDL8AVryIumdbsnAy8diwXg2WUNleOqCj4mqWzIITqtjx9gXBt1uGWIP90CUP3WG0Xij1I8opSk8UpKTkq9868GQwkOccH89Au1rgzyKUJfv8zv6jIJbpxDlbQEuxmAV76Want_OWT1UOt-s&b64e=1&sign=fe6cebe690e68fc4e958b11e4e1536f1&keyno=1",
+          "price": {
+            "value": "845",
+            "currencyName": "\u0440\u0443\u0431.",
+            "currencyCode": "RUR"
+          },
+          "shopInfo": {
+            "id": 75925,
+            "name": "\u041e\u041d\u041b\u0410\u0419\u041d \u0422\u0420\u0415\u0419\u0414.\u0420\u0423",
+            "status": "actual",
+            "rating": 5,
+            "gradeTotal": 32300
+          },
+          "phone": {
+            "number": "8 800 555-40-94",
+            "sanitizedNumber": "88005554094",
+            "call": "https:\/\/market-click2.yandex.ru\/redir\/GAkkM7lQwz6kEtXSvIPZ1mAIc1IAtaTT_hGHI6BzzRpzWuJW1SFVFVMAmqOiI9xU5oPjxvjbe8_PJGFjpbBShL1DbfY7mrYQtPnXD6UHgspaHdbcreXub0RtqC1adABkkfSuWputorWqDSTe-NcLxcIgkHqpLhXc2l32ZNSKGYx5QXD2BNpTQKsf1tTOgqgaDcSyU_L7FWaIwDmrjhC-UV4TTU0Aq7Ji4rRBc23m-dxR-wGC6QRQQ_drAVjzpdopETAwTSYg4xlXzXRP7xkemDtTTE0CRVSYUIEX8TtvN2zCnFAb3alSqbiSmDYVHVZvzypAkpvw3mXYuVbQOPRXRYUkYg4OcKx-Yp2pYfdmyx0t45OdGRa3d3uGNRxH0xZx7Cayfe0-oqtBXRCirwa9Ovif6U_PUb85IWzlqlpYIX3qkzJ1FVOCyEsEKkv3nNngBM8m772nqmG_z_tPtoO4CDQGuVXT7sLJgNVNTf3OXV45erWV4ewZg5punSjtvwkDtpFo_vbHhP-IgnYkCHyi_fPNiMPj8wqKthZLMmh78pNdHxxT4yxmvD-Trq__BWFwTCO-MYwPLvXwYKR-MQ8JmXI0ZPeEW2tb8-OkFcjJi1FKywS9X-JK2uilBghW3ndbW6l_UhKdsZ8p-KEWlR0sHICRaSct2Eqr?data=41WTYndNxdlaG-5xTfn6okY8p8Pwg5EL5II-gGm8_O-KPYjYUWJ0MSGSGFPV4hIfwUE7bGHnxhQu2JFJeCbr9jY4qDM3YROscJbz4xyhp6tcwk9iackBRscsBF0FrPiSqZJGwGtOnRwLgWMdtBB17ogS3JkB0RjDIQZj2a6fdSTMBII07kSzy2E9QoQeAZaA3ILEPg5LaGw4KODJnCTA7eeGRb7nwfNwB7LNXTqdiP1BHEjJe1HG_jGy8DzaOrBj8GtzKFl8j95VmKlY4M__vwvdP_3i6VAd&b64e=1&sign=6e8d097b2fa5b17092b121c657f31d0c&keyno=1"
+          },
+          "delivery": {
+            "price": {
+              "value": "200",
+              "currencyName": "\u0440\u0443\u0431.",
+              "currencyCode": "RUR"
+            },
+            "description": "- \u0421\u0442-\u0442\u044c \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043e\u0442 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0442\u043e\u0432\u0430\u0440\u0430, \u043e\u0442 200 \u0440\u0443\u0431. \u0434\u043e 500 \u0440\u0443\u0431.- \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0441\u0430\u043c\u043e\u0432\u044b\u0432\u043e\u0437!",
+            "priorityRegion": 44,
+            "regionName": "\u0418\u0436\u0435\u0432\u0441\u043a",
+            "userRegionName": "\u0418\u0436\u0435\u0432\u0441\u043a",
+            "pickup": true,
+            "store": false,
+            "delivery": true,
+            "free": false,
+            "deliveryIncluded": false,
+            "downloadable": false,
+            "priority": true,
+            "brief": "\u0432 \u0433. \u0418\u0436\u0435\u0432\u0441\u043a \u2014 200 \u0440\u0443\u0431., \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u0441\u0430\u043c\u043e\u0432\u044b\u0432\u043e\u0437",
+            "full": "- \u0421\u0442-\u0442\u044c \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043e\u0442 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0442\u043e\u0432\u0430\u0440\u0430, \u043e\u0442 200 \u0440\u0443\u0431. \u0434\u043e 500 \u0440\u0443\u0431.- \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0441\u0430\u043c\u043e\u0432\u044b\u0432\u043e\u0437!"
+          },
+          "photos": [
+            {
+              "id": 0,
+              "url": "https:\/\/0.cs-ellpic.yandex.net\/market__0hzNrlmf-UHJ4kN9Kb6RA_600x800.jpg",
+              "width": 600,
+              "height": 600
+            },
+            {
+              "id": 0,
+              "url": "https:\/\/1.cs-ellpic.yandex.net\/market_PjDRDRMNEhiWwZWl_8SZbg_600x800.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "bigPhoto": {
+            "id": 0,
+            "url": "https:\/\/1.cs-ellpic.yandex.net\/market_PjDRDRMNEhiWwZWl_8SZbg_600x800.jpg",
+            "width": 600,
+            "height": 600
+          },
+          "previewPhotos": [
+            {
+              "id": 0,
+              "url": "https:\/\/0.cs-ellpic.yandex.net\/market__0hzNrlmf-UHJ4kN9Kb6RA_190x250.jpg",
+              "width": 190,
+              "height": 190
+            },
+            {
+              "id": 0,
+              "url": "https:\/\/1.cs-ellpic.yandex.net\/market_PjDRDRMNEhiWwZWl_8SZbg_190x250.jpg",
+              "width": 190,
+              "height": 190
+            }
+          ],
+          "outlet": {
+            "phone": {
+              "country": "8",
+              "city": "800",
+              "number": "555-4094"
+            },
+            "schedule": [
+              {
+                "workingDaysFrom": "1",
+                "workingDaysTill": "7",
+                "workingHoursFrom": "10:00",
+                "workingHoursTill": "22:00"
+              }
+            ],
+            "geo": {
+              "geoId": 44,
+              "longitude": "53.256667",
+              "latitude": "56.882501"
+            },
+            "pointId": "385381",
+            "pointName": "\u041e\u041d\u041b\u0410\u0419\u041d \u0422\u0420\u0415\u0419\u0414.\u0420\u0423 (\u0433. \u0418\u0436\u0435\u0432\u0441\u043a)",
+            "pointType": "DEPOT",
+            "localityName": "\u0418\u0436\u0435\u0432\u0441\u043a",
+            "thoroughfareName": "\u0443\u043b. 9 \u042f\u043d\u0432\u0430\u0440\u044f",
+            "premiseNumber": "257",
+            "shopId": 75925
+          },
+          "warranty": 0,
+          "vendor": {
+            "id": 10713766,
+            "site": "www.motul.com",
+            "name": "Motul"
+          },
+          "categoryId": 90478,
+          "vendorId": 10713766
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "90478",
+        "name": "\u041c\u043e\u0442\u043e\u0440\u043d\u044b\u0435 \u043c\u0430\u0441\u043b\u0430",
+        "count": "28",
+        "visual": false,
+        "uniq_name": "\u041c\u043e\u0442\u043e\u0440\u043d\u044b\u0435 \u043c\u0430\u0441\u043b\u0430"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "order":{"id":12345, "status":"PROCESSING", "creationDate":"01-02-2013 16:35:03", "currency":"RUR", "itemsTotal":3700, "total":4050, "paymentType":"POSTPAID", "paymentMethod":"CASH_ON_DELIVERY", "fake":false,
+    "items":
+        [
+        {"feedId":12345, "offerId":"4609283881", "feedCategoryId":"35", "offerName":"Чайник электрический 100W", "price":1500, "count":1},
+        {"feedId":12345, "offerId":"4607632101", "feedCategoryId":"41", "offerName":"Тостер", "price":2200, "count":1}
+        ],
+    "delivery":{"type":"DELIVERY", "serviceName":"СПСР", "price":350,
+        "region":
+           {"id":213, "name":"Москва", "type":"CITY", "parent":
+               {"id":1, "name":"Москва и Московская область", "type":"REPUBLIC", "parent":
+                   {"id":3, "name":"Центр", "type":"COUNTRY_DISTRICT", "parent":
+                       {"id":225, "name":"Россия", "type":"COUNTRY"}
+                   }
+                }
+            },
+        "address":{"country":"Россия", "postcode":"119313", "city":"Москва", "subway":"Проспект Вернадского", "street":"Ленинский проспект", "house":"90", "entrance":"10", "entryphone":"289", "floor":"6", "apartment":"289", "recipient":"Иванов Иван", "phone":"+71234567890"},
+        "dates":{"fromDate": "03-02-2013", "toDate": "05-02-2013"}
+     },
+    "buyer":{"id":"LEgMQuuxR8", "lastName":"Иванов", "firstName":"Иван", "middleName":"Иванович", "phone":"+71234567890", "email":"ivanov.ivan@yandex.ru"}
+  }
+}

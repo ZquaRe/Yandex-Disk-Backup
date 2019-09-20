@@ -1,0 +1,28 @@
+env:
+  global:
+    - secure: "T+/TQ2mez4tGMRESo61dL8sgUIA2J/RnlcfpmDS4B3ZWxqq4ueFV/072jSftBD3/WRryaKstO+R7h5ftYXIpfBOuhUh0i0FvV2GDPb37s22/TJAnet8KrkNJGp+fxLs7A5fR3f5vqaFMPlbocQAUGxdp8PJ4VP0ButbX9y7LXfM="
+language: php
+php:
+  - 5.6
+  - 7.0
+  - hhvm
+matrix:
+  allow_failures:
+    - php: hhvm
+    - php: 7.0
+before_script:
+  # Composer
+  - COMPOSER_ROOT_VERSION=dev-master composer --prefer-source --dev install
+  - composer self-update
+  - composer update --prefer-source
+script:
+  - mkdir .reports
+  # Code style
+  - php vendor/bin/phpcs ./src/Yandex --standard=PSR1 --encoding=utf-8 --report=summary
+  - php vendor/bin/phpcs ./src/Yandex --standard=PSR2 --encoding=utf-8 --report=summary
+  # PHPUnit tests
+  - php vendor/bin/phpunit --configuration tests/phpunit.xml.dist --coverage-clover=.reports/clover.xml
+after_success:
+  - bash .travis/after_success.sh
+notifications:
+  email: github@nixsolutions.com

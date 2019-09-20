@@ -1,0 +1,3 @@
+i:ydx-malware-shavar
+u:sba.cdn.yandex.net/chunks/ydx-malware-shavar/xJJgF5khajVvxztP-9mGe_FSTMR4LuwWoA_lDVC_6Tg=.chunk
+u:sba.cdn.yandex.net/chunks/ydx-malware-shavar/ZDbvoCHHJtlDfJxE4WVABofGpujieyYcrvAjEb4CULE=.chunk

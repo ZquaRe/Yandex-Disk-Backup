@@ -1,0 +1,43 @@
+{
+  "model": {
+    "id": 12796745,
+    "name": "Evolution 900 NF 5W-40 4 \u043b",
+    "description": "\u0441\u0438\u043d\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0442\u043e\u0440\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e, 4\u043b, \u0432\u044f\u0437\u043a\u043e\u0441\u0442\u044c 5W-40, 4-\u0442\u0430\u043a\u0442\u043d\u044b\u0439 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c \n",
+    "categoryId": 90478,
+    "prices": {
+      "max": "1758",
+      "min": "1377",
+      "avg": "1450",
+      "curCode": "RUR",
+      "curName": "\u0440\u0443\u0431."
+    },
+    "mainPhoto": {
+      "url": "https:\/\/mdata.yandex.net\/i?path=b0818011612_img_id5008210614188240070.jpeg",
+      "width": 574,
+      "height": 701
+    },
+    "facts": {
+      "pro": [],
+      "contra": []
+    },
+    "link": "https:\/\/market.yandex.ru\/product\/12796745\/?hid=90478",
+    "vendorId": 10713526,
+    "isGroup": false,
+    "vendor": "ELF",
+    "offersCount": 8,
+    "isNew": 0,
+    "rating": -1,
+    "gradeCount": 0,
+    "reviewsCount": 0,
+    "articlesCount": 0,
+    "photos": {
+      "photo": [
+        {
+          "url": "https:\/\/mdata.yandex.net\/i?path=b0818011612_img_id5008210614188240070.jpeg",
+          "width": 574,
+          "height": 701
+        }
+      ]
+    }
+  }
+}

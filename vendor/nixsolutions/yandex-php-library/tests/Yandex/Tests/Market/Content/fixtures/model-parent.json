@@ -1,0 +1,775 @@
+{
+  "model": {
+    "id": 10452984,
+    "name": "Michelin X-Ice North 3",
+    "description": "\u0437\u0438\u043c\u043d\u0438\u0435, \u0428\u0438\u043f\u044b, \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f RunFlat \u2014 \u043d\u0435\u0442, 14 \/ 15 \/ 16 \/ 17 \/ 18 \/ 19 \/ 20",
+    "categoryId": 90490,
+    "prices": {
+      "max": "24320",
+      "min": "2914",
+      "avg": "8313.33",
+      "curCode": "RUR",
+      "curName": "\u0440\u0443\u0431."
+    },
+    "mainPhoto": {
+      "url": "https:\/\/mdata.yandex.net\/i?path=b0805234123_img_id7853993814781671164.jpg",
+      "width": 361,
+      "height": 599
+    },
+    "facts": {
+      "pro": [],
+      "contra": []
+    },
+    "link": "https:\/\/market.yandex.ru\/product\/10452984\/?hid=90490",
+    "vendorId": 152883,
+    "isGroup": true,
+    "vendor": "Michelin",
+    "offersCount": 2757,
+    "isNew": 0,
+    "rating": 3.5,
+    "gradeCount": 169,
+    "reviewsCount": 93,
+    "articlesCount": 0,
+    "photos": {
+      "photo": [
+        {
+          "url": "https:\/\/mdata.yandex.net\/i?path=b0805234123_img_id7853993814781671164.jpg",
+          "width": 361,
+          "height": 599
+        }
+      ]
+    },
+    "children": {
+      "models": [
+        {
+          "id": 10452988,
+          "name": "X-Ice North 3 205\/55 R16 94T",
+          "popularity": 324.12,
+          "offersCount": 82,
+          "prices": {
+            "max": "8110",
+            "min": "4219",
+            "avg": "5080",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10546665,
+          "name": "X-Ice North 3 195\/65 R15 95T",
+          "popularity": 193.63,
+          "offersCount": 71,
+          "prices": {
+            "max": "6370",
+            "min": "3020",
+            "avg": "3591",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10452997,
+          "name": "X-Ice North 3 215\/65 R16 102T",
+          "popularity": 188.86,
+          "offersCount": 81,
+          "prices": {
+            "max": "6110",
+            "min": "4064",
+            "avg": "4799",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10546667,
+          "name": "X-Ice North 3 205\/60 R16 96T",
+          "popularity": 144,
+          "offersCount": 82,
+          "prices": {
+            "max": "6540",
+            "min": "4349",
+            "avg": "5138",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10573918,
+          "name": "X-Ice North 3 185\/65 R15 92T",
+          "popularity": 111.15,
+          "offersCount": 59,
+          "prices": {
+            "max": "4059",
+            "min": "3084",
+            "avg": "3370",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10546666,
+          "name": "X-Ice North 3 215\/60 R16 99T",
+          "popularity": 104.28,
+          "offersCount": 73,
+          "prices": {
+            "max": "9420",
+            "min": "5226",
+            "avg": "5894",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11001811,
+          "name": "X-Ice North 3 175\/65 R14 86T",
+          "popularity": 96,
+          "offersCount": 51,
+          "prices": {
+            "max": "3820",
+            "min": "2914",
+            "avg": "3250",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10452991,
+          "name": "X-Ice North 3 215\/55 R18 99T",
+          "popularity": 82.36,
+          "offersCount": 61,
+          "prices": {
+            "max": "19300",
+            "min": "8001",
+            "avg": "9200",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10544926,
+          "name": "X-Ice North 3 215\/55 R16 97T",
+          "popularity": 69.44,
+          "offersCount": 66,
+          "prices": {
+            "max": "7190",
+            "min": "5050",
+            "avg": "5840",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453025,
+          "name": "X-Ice North 3 245\/45 R18 100T",
+          "popularity": 67.26,
+          "offersCount": 60,
+          "prices": {
+            "max": "12999",
+            "min": "9738",
+            "avg": "11009",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10971302,
+          "name": "X-Ice North 3 235\/55 R17 103T",
+          "popularity": 64.66,
+          "offersCount": 56,
+          "prices": {
+            "max": "10100",
+            "min": "7250",
+            "avg": "7806",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10971303,
+          "name": "X-Ice North 3 235\/50 R18 101T",
+          "popularity": 62.04,
+          "offersCount": 71,
+          "prices": {
+            "max": "21980",
+            "min": "9296",
+            "avg": "10770",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004176,
+          "name": "X-Ice North 3 225\/50 R17 98T",
+          "popularity": 61.2,
+          "offersCount": 64,
+          "prices": {
+            "max": "9730",
+            "min": "6890",
+            "avg": "7680",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10574537,
+          "name": "X-Ice North 3 215\/55 R17 98T",
+          "popularity": 58.9,
+          "offersCount": 67,
+          "prices": {
+            "max": "10500",
+            "min": "7388",
+            "avg": "8752",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10546668,
+          "name": "X-Ice North 3 205\/65 R16 99T",
+          "popularity": 58,
+          "offersCount": 62,
+          "prices": {
+            "max": "7790",
+            "min": "5040",
+            "avg": "5699",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10666883,
+          "name": "X-Ice North 3 225\/45 R17 94T",
+          "popularity": 51.92,
+          "offersCount": 65,
+          "prices": {
+            "max": "10940",
+            "min": "7600",
+            "avg": "8455",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004151,
+          "name": "X-Ice North 3 225\/55 R17 101T",
+          "popularity": 49.88,
+          "offersCount": 61,
+          "prices": {
+            "max": "10700",
+            "min": "7379",
+            "avg": "8200",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10544835,
+          "name": "X-Ice North 3 195\/60 R15 92T",
+          "popularity": 48.72,
+          "offersCount": 58,
+          "prices": {
+            "max": "4370",
+            "min": "3050",
+            "avg": "3478",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453023,
+          "name": "X-Ice North 3 245\/45 R19 102H",
+          "popularity": 48.72,
+          "offersCount": 57,
+          "prices": {
+            "max": "23160",
+            "min": "10490",
+            "avg": "11809",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004191,
+          "name": "X-Ice North 3 225\/45 R18 95T",
+          "popularity": 45.6,
+          "offersCount": 63,
+          "prices": {
+            "max": "12150",
+            "min": "8380",
+            "avg": "10400",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004196,
+          "name": "X-Ice North 3 245\/40 R18 97T",
+          "popularity": 43.68,
+          "offersCount": 54,
+          "prices": {
+            "max": "12560",
+            "min": "8854",
+            "avg": "10016",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10756074,
+          "name": "X-Ice North 3 205\/55 R17 95T",
+          "popularity": 42.72,
+          "offersCount": 48,
+          "prices": {
+            "max": "10120",
+            "min": "6310",
+            "avg": "8718",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004192,
+          "name": "X-Ice North 3 235\/45 R18 98T",
+          "popularity": 41.8,
+          "offersCount": 57,
+          "prices": {
+            "max": "13800",
+            "min": "10150",
+            "avg": "11563",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004199,
+          "name": "X-Ice North 3 255\/40 R18 99T",
+          "popularity": 41.4,
+          "offersCount": 47,
+          "prices": {
+            "max": "15708",
+            "min": "11731",
+            "avg": "13120",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10971300,
+          "name": "X-Ice North 3 245\/50 R18 104T",
+          "popularity": 39.9,
+          "offersCount": 59,
+          "prices": {
+            "max": "22970",
+            "min": "9841",
+            "avg": "10990",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004189,
+          "name": "X-Ice North 3 235\/45 R17 97T",
+          "popularity": 39.6,
+          "offersCount": 56,
+          "prices": {
+            "max": "10750",
+            "min": "7326",
+            "avg": "8472",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004142,
+          "name": "X-Ice North 3 185\/60 R15 88T",
+          "popularity": 37.8,
+          "offersCount": 46,
+          "prices": {
+            "max": "5190",
+            "min": "3619",
+            "avg": "3900",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10544871,
+          "name": "X-Ice North 3 205\/65 R15 99T",
+          "popularity": 37.8,
+          "offersCount": 43,
+          "prices": {
+            "max": "5976",
+            "min": "3957",
+            "avg": "4396",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453011,
+          "name": "X-Ice North 3 235\/40 R18 95T",
+          "popularity": 37.52,
+          "offersCount": 61,
+          "prices": {
+            "max": "24320",
+            "min": "8950",
+            "avg": "9653",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004150,
+          "name": "X-Ice North 3 195\/55 R16 91T",
+          "popularity": 37.13,
+          "offersCount": 49,
+          "prices": {
+            "max": "6815",
+            "min": "4840",
+            "avg": "5420",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453028,
+          "name": "X-Ice North 3 255\/45 R18 103T",
+          "popularity": 35.7,
+          "offersCount": 53,
+          "prices": {
+            "max": "19930",
+            "min": "9747",
+            "avg": "10990",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004146,
+          "name": "X-Ice North 3 195\/55 R15 89T",
+          "popularity": 35.52,
+          "offersCount": 49,
+          "prices": {
+            "max": "5490",
+            "min": "4270",
+            "avg": "4547",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453007,
+          "name": "X-Ice North 3 225\/60 R16 102T",
+          "popularity": 34.3,
+          "offersCount": 51,
+          "prices": {
+            "max": "8150",
+            "min": "5880",
+            "avg": "6610",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10666885,
+          "name": "X-Ice North 3 205\/50 R17 93T",
+          "popularity": 33.32,
+          "offersCount": 51,
+          "prices": {
+            "max": "8950",
+            "min": "6439",
+            "avg": "7320",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453012,
+          "name": "X-Ice North 3 235\/45 R19 99H",
+          "popularity": 32.64,
+          "offersCount": 52,
+          "prices": {
+            "max": "14450",
+            "min": "11571",
+            "avg": "12303",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10452987,
+          "name": "X-Ice North 3 195\/60 R16 93T",
+          "popularity": 32,
+          "offersCount": 52,
+          "prices": {
+            "max": "7810",
+            "min": "5600",
+            "avg": "6054",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004134,
+          "name": "X-Ice North 3 185\/60 R14 86T",
+          "popularity": 32,
+          "offersCount": 41,
+          "prices": {
+            "max": "4250",
+            "min": "3240",
+            "avg": "3680",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10666884,
+          "name": "X-Ice North 3 225\/55 R16 99T",
+          "popularity": 31.32,
+          "offersCount": 56,
+          "prices": {
+            "max": "8120",
+            "min": "6210",
+            "avg": "6655",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10971304,
+          "name": "X-Ice North 3 195\/50 R15 86T",
+          "popularity": 31.02,
+          "offersCount": 47,
+          "prices": {
+            "max": "5630",
+            "min": "4530",
+            "avg": "4890",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004190,
+          "name": "X-Ice North 3 245\/45 R17 99T",
+          "popularity": 30.6,
+          "offersCount": 53,
+          "prices": {
+            "max": "10768",
+            "min": "8215",
+            "avg": "9040",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453000,
+          "name": "X-Ice North 3 225\/40 R18 92T",
+          "popularity": 29.97,
+          "offersCount": 40,
+          "prices": {
+            "max": "23430",
+            "min": "9350",
+            "avg": "10389",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004205,
+          "name": "X-Ice North 3 285\/40 R19 107H",
+          "popularity": 28.8,
+          "offersCount": 42,
+          "prices": {
+            "max": "20177",
+            "min": "14241",
+            "avg": "16184",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004169,
+          "name": "X-Ice North 3 215\/50 R17 95T",
+          "popularity": 28.56,
+          "offersCount": 35,
+          "prices": {
+            "max": "8620",
+            "min": "6542",
+            "avg": "7390",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453003,
+          "name": "X-Ice North 3 225\/50 R18 99T",
+          "popularity": 26.52,
+          "offersCount": 41,
+          "prices": {
+            "max": "12450",
+            "min": "9635",
+            "avg": "10722",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11001818,
+          "name": "X-Ice North 3 175\/65 R15 88T",
+          "popularity": 26.4,
+          "offersCount": 40,
+          "prices": {
+            "max": "5130",
+            "min": "3550",
+            "avg": "3777",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10452989,
+          "name": "X-Ice North 3 205\/60 R15 95T",
+          "popularity": 26.04,
+          "offersCount": 42,
+          "prices": {
+            "max": "5410",
+            "min": "4428",
+            "avg": "4685",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10971305,
+          "name": "X-Ice North 3 185\/55 R15 86T",
+          "popularity": 24.42,
+          "offersCount": 40,
+          "prices": {
+            "max": "5232",
+            "min": "3760",
+            "avg": "4690",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004204,
+          "name": "X-Ice North 3 275\/40 R19 105H",
+          "popularity": 23.4,
+          "offersCount": 28,
+          "prices": {
+            "max": "20528",
+            "min": "14288",
+            "avg": "16610",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004149,
+          "name": "X-Ice North 3 185\/55 R16 87T",
+          "popularity": 20.88,
+          "offersCount": 37,
+          "prices": {
+            "max": "5630",
+            "min": "4400",
+            "avg": "4757",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453009,
+          "name": "X-Ice North 3 235\/40 R19 96H",
+          "popularity": 15.12,
+          "offersCount": 27,
+          "prices": {
+            "max": "13120",
+            "min": "11210",
+            "avg": "12014",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11003574,
+          "name": "X-Ice North 3 215\/65 R15 100T",
+          "popularity": 11.6,
+          "offersCount": 20,
+          "prices": {
+            "max": "6450",
+            "min": "5152",
+            "avg": "5540",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004160,
+          "name": "X-Ice North 3 195\/50 R16 88T",
+          "popularity": 9.52,
+          "offersCount": 17,
+          "prices": {
+            "max": "6924",
+            "min": "5620",
+            "avg": "6340",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004179,
+          "name": "X-Ice North 3 235\/50 R17 100T",
+          "popularity": 5.44,
+          "offersCount": 8,
+          "prices": {
+            "max": "11060",
+            "min": "9885",
+            "avg": "10780",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 11004207,
+          "name": "X-Ice North 3 265\/40 R20 104H",
+          "popularity": 1.16,
+          "offersCount": 2,
+          "prices": {
+            "max": "21760",
+            "min": "21100",
+            "avg": "21430",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10452998,
+          "name": "X-Ice North 3 225\/40 R19 93H",
+          "popularity": 0.88,
+          "offersCount": 2,
+          "prices": {
+            "max": "15500",
+            "min": "13610",
+            "avg": "14555",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        },
+        {
+          "id": 10453020,
+          "name": "X-Ice North 3 245\/35 R20 95H",
+          "popularity": 0.48,
+          "offersCount": 1,
+          "prices": {
+            "max": "18780",
+            "min": "18780",
+            "avg": "18780",
+            "curCode": "RUR",
+            "curName": "\u0440\u0443\u0431."
+          }
+        }
+      ]
+    }
+  }
+}
